@@ -1,8 +1,4 @@
-/* ------------------------------------------------------*/
-/* Student 1: Maksat Khobdabayev, mk7090*/
-/* Student 2: Pelin Demirci, pd2164*/
-/* Student 1: Juno Yoon Park, jyp399*/
-/* Date: December 16, 2021*/
+/* Date: October 1, 2024*/
 /* Program: study_buddy.cpp*/
 /* Description: Program for device that sets productive and healthy study routine. */
 
